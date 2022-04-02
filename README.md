@@ -1,4 +1,4 @@
 # alzheimer_app
-alzheimer AI pimnas 32
+alzheimer AI
 <br> app with django
 <br> Demo : https://youtu.be/QurFx3TPsIY
